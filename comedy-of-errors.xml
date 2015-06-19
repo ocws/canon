@@ -721,6 +721,7 @@
                 <text type="exeunt"></text>
             </scene>
             <scene info="The Same">
+                <text type="enter">Luciana and Antipholus of Syracuse</text>
                 <text type="verse" char="Luciana">And may it be that you have quite forgot
                     A husband's office? shall, Antipholus.
                     Even in the spring of love, thy love-springs rot?
