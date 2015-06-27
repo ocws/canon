@@ -50,7 +50,7 @@
                     Gently to hear, kindly to judge, our play.</text>
                 <text type="exit"></text>
             </scene>
-            <scene info="London. An ante-chamber in the KING'S palace.">
+            <scene info="London. An ante-chamber in the King's palace.">
                 <text type="enter">the Archbishop of Canterbury, and the Bishop of Ely</text>
                 <text char="Canterbury" type="verse">My lord, I'll tell you; that self bill is urged,
                     Which in the eleventh year of the last king's reign
@@ -1123,7 +1123,7 @@
                 <text type="exit"></text>
             </scene>
             <scene info="">
-                <text type="enter">Alarum. King Henry V, Exeter, Bedford, Gloucester, and Soldiers, with scaling-ladders</text>
+                <text type="enter">King Henry V, Exeter, Bedford, Gloucester, and Soldiers, with scaling-ladders</text>
                 <text char="King Henry V" type="verse">Once more unto the breach, dear friends, once more;
                     Or close the wall up with our English dead.
                     In peace there's nothing so becomes a man
@@ -2303,7 +2303,7 @@
                 <text type="exit">Salisbury</text>
                 <text char="Bedford" type="verse">He is full of valour as of kindness;
                     Princely in both.</text>
-                <text type="enter">the KING</text>
+                <text type="enter">King Henry V</text>
                 <text char="Westmoreland" type="verse">O that we now had here
                     But one ten thousand of those men in England
                     That do no work to-day!</text>
@@ -2357,7 +2357,7 @@
                     Shall think themselves accursed they were not here,
                     And hold their manhoods cheap whiles any speaks
                     That fought with us upon Saint Crispin's day.</text>
-                <text type="stage">Re-enter Salisbury</text>
+                <text type="enter">Salisbury</text>
                 <text char="Salisbury" type="verse">My sovereign lord, bestow yourself with speed:
                     The French are bravely in their battles set,
                     And will with all expedience charge on us.</text>
@@ -2369,7 +2369,7 @@
                 <text char="King Henry V" type="verse">Why, now thou hast unwish'd five thousand men;
                     Which likes me better than to wish us one.
                     You know your places: God be with you all!</text>
-                <text type="enter">Tucket. Montjoy</text>
+                <text type="enter">Montjoy</text>
                 <text char="Montjoy" type="verse">Once more I come to know of thee, King Harry,
                     If for thy ransom thou wilt now compound,
                     Before thy most assured overthrow:
@@ -2430,7 +2430,7 @@
                 <text type="exeunt"></text>
             </scene>
             <scene info="">
-                <text type="enter">Alarum. Excursions. Pistol, French Soldier, and Boy</text>
+                <text type="enter">Pistol, French Soldier, and Boy</text>
                 <text char="Pistol" type="verse">Yield, cur!</text>
                 <text char="French Soldier" type="verse">Je pense que vous etes gentilhomme de bonne qualite.</text>
                 <text char="Pistol" type="verse">Qualtitie calmie custure me! Art thou a gentleman?
@@ -2536,7 +2536,7 @@
                 <text type="exeunt"></text>
             </scene>
             <scene info="">
-                <text type="enter">Alarums. King Henry and forces, Exeter, and others</text>
+                <text type="enter">King Henry and forces, Exeter, and others</text>
                 <text char="King Henry V" type="verse">Well have we done, thrice valiant countrymen:
                     But all's not done; yet keep the French the field.</text>
                 <text char="Exeter" type="verse">The Duke of York commends him to your majesty.</text>
@@ -2633,7 +2633,7 @@
                 <text char="Gower" type="verse">Sir John Falstaff.</text>
                 <text char="Fluellen" type="verse">That is he: I'll tell you there is good men porn at Monmouth.</text>
                 <text char="Gower" type="verse">Here comes his majesty.</text>
-                <text type="enter">Alarum. King Henry V, and forces; Warwick, Gloucester, Exeter, and others</text>
+                <text type="enter">King Henry V, and forces; Warwick, Gloucester, Exeter, and others</text>
                 <text char="King Henry V" type="verse">I was not angry since I came to France
                     Until this instant. Take a trumpet, herald;
                     Ride thou unto the horsemen on yon hill:
@@ -2874,7 +2874,7 @@
                     Beaumont and Marle, Vaudemont and Lestrale.
                     Here was a royal fellowship of death!
                     Where is the number of our English dead?</text>
-                <text type="stage">Herald shews him another paper</text>
+                <text type="stage">Herald shows him another paper</text>
                 <text char="King Henry V" type="verse">Edward the Duke of York, the Earl of Suffolk,
                     Sir Richard Ketly, Davy Gam, esquire:
                     None else of name; and of all other men
@@ -3048,7 +3048,7 @@
                 <text type="exit"></text>
             </scene>
             <scene info="">
-                <text type="enter">, at one door King Henry V, Exeter, Bedford, Gloucester, Warwick, Westmoreland, and
+                <text type="enter">at one door King Henry V, Exeter, Bedford, Gloucester, Warwick, Westmoreland, and
                     other Lords; at another, the French King, Queen Isabel, the Princess Katharine, Alice and other
                     Ladies; the Duke of Burgundy, and his train</text>
                 <text char="King Henry V" type="verse">Peace to this meeting, wherefore we are met!
