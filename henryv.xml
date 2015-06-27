@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <play>
     <head>
-        <title>The Life of King Henry the Fifth
-        </title>
+        <title>The Life of King Henry the Fifth</title>
+        <tag>history</tag>
         <shortName>henryv</shortName>
         <image></image>
         <note>HENRY V is the BOMB!</note>
@@ -4188,7 +4188,7 @@
                 </text>
                 <text type="exeunt">. Sennet.</text>
             </scene>
-            <scene info="" name="Epilogue" type="verse">
+            <scene info="" name="Epilogue">
                 <text type="enter">Chorus</text>
                 <text char="Chorus" type="verse">Thus far, with rough and all-unable pen,
                     Our bending author hath pursued the story,
