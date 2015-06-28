@@ -16,7 +16,7 @@
         <act info="Solinus the Duke of Ephesus enters, accompanied by a jailer and Egeon. Egeon is a merchant from Syracuse, a city which is a fierce rival of Ephesus. Recently both cities have passed laws which put any man from the rival city to death unless he is able to raise a ransom of one thousand marks, a sum which Egeon cannot afford.">
             <scene info="A hall in the Duke's palace.">
                 <text type="enter" note="This is the first entrance.">Duke [Solinus], Egeon, Gaoler, Officers, and other Attendants</text>
-                <text char="Egeon" type="verse">Proceed, Solinus <note start="1" word="Solinus">The name Solinus doesn't appear anywhere else in the text.</note>, to procure my fall
+                <text char="Egeon" type="verse">Proceed, Solinus <note word="Solinus">The name Solinus doesn't appear anywhere else in the text.</note>, to procure my fall
                     And by the doom of death end woes and all.</text>
                 <text char="Duke" type="verse">Merchant of Syracuse, plead no more;
                     I am not partial to infringe our laws:

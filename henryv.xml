@@ -14,7 +14,7 @@
         <act info="Henry discusses the morality of invading France with Ely and Canterbury. Montjoy comes from France bringing a taunting message for Henry a case of tennis balls. Henry decides to invade France.">
             <scene info="" name="Prologue">
                 <text type="enter">Chorus</text>
-                <text char="Chorus" type="verse">O for a Muse of fire, that would ascend
+                <text char="Chorus" type="verse">O for a muse of fire<note word="muse of fire">Fire was considered an element of insipration and passion.</note>, that would ascend
                     The brightest heaven of invention,
                     A kingdom for a stage, princes to act
                     And monarchs to behold the swelling scene!
