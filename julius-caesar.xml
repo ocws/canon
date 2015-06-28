@@ -120,7 +120,7 @@
                 <text char="Caesar" type="verse">What say'st thou to me now? speak once again.</text>
                 <text char="Soothsayer" type="verse">Beware the ides of March.</text>
                 <text char="Caesar" type="verse">He is a dreamer; let us leave him: pass.</text>
-                <text type="exeunt">Sennet. all except Brutus and Cassius</text>
+                <text type="exeunt">all except Brutus and Cassius</text>
                 <text char="Cassius" type="verse">Will you go see the order of the course?</text>
                 <text char="Brutus" type="verse">Not I.</text>
                 <text char="Cassius" type="verse">I pray you, do.</text>
