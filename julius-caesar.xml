@@ -678,7 +678,7 @@
                     To speak and strike? O Rome, I make thee promise:
                     If the redress will follow, thou receivest
                     Thy full petition at the hand of Brutus!</text>
-                <text type="stage">Re-enter Lucius</text>
+                <text type="enter">Lucius</text>
                 <text char="Lucius" type="verse">Sir, March is wasted fourteen days.</text>
                 <text type="stage">Knocking within</text>
                 <text char="Brutus" type="verse">'Tis good. Go to the gate; somebody knocks.</text>
@@ -692,7 +692,7 @@
                     Are then in council; and the state of man,
                     Like to a little kingdom, suffers then
                     The nature of an insurrection.</text>
-                <text type="stage">Re-enter Lucius</text>
+                <text type="enter">Lucius</text>
                 <text char="Lucius" type="verse">Sir, 'tis your brother Cassius at the door,
                     Who doth desire to see you.</text>
                 <text char="Brutus" type="verse">Is he alone?</text>
@@ -714,7 +714,7 @@
                     Not Erebus itself were dim enough
                     To hide thee from prevention.</text>
                 <text type="enter">the conspirators, Cassius, Casca, Decius Brutus, Cinna, METELLUS CIMBER, and
-                    TREBONIUS</text>
+                    Trebonius</text>
                 <text char="Cassius" type="verse">I think we are too bold upon your rest:
                     Good morrow, Brutus; do we trouble you?</text>
                 <text char="Brutus" type="verse">I have been up this hour, awake all night.
@@ -825,12 +825,12 @@
                     Is to himself, take thought and die for Caesar:
                     And that were much he should; for he is given
                     To sports, to wildness and much company.</text>
-                <text char="TREBONIUS" type="verse">There is no fear in him; let him not die;
+                <text char="Trebonius" type="verse">There is no fear in him; let him not die;
                     For he will live, and laugh at this hereafter.</text>
                 <text type="stage">Clock strikes</text>
                 <text char="Brutus" type="verse">Peace! count the clock.</text>
                 <text char="Cassius" type="verse">The clock hath stricken three.</text>
-                <text char="TREBONIUS" type="verse">'Tis time to part.</text>
+                <text char="Trebonius" type="verse">'Tis time to part.</text>
                 <text char="Cassius" type="verse">But it is doubtful yet,
                     Whether Caesar will come forth to-day, or no;
                     For he is superstitious grown of late,
@@ -956,18 +956,18 @@
                     Leave me with haste.</text>
                 <text type="exit">Portia</text>
                 <text char="Brutus" type="verse">Lucius, who's that knocks?</text>
-                <text type="stage">Re-enter Lucius with LIGARIUS</text>
+                <text type="enter">Lucius with Ligarius</text>
                 <text char="Lucius" type="verse">He is a sick man that would speak with you.</text>
                 <text char="Brutus" type="verse">Caius Ligarius, that Metellus spake of.
                     Boy, stand aside. Caius Ligarius! how?</text>
-                <text char="LIGARIUS" type="verse">Vouchsafe good morrow from a feeble tongue.</text>
+                <text char="Ligarius" type="verse">Vouchsafe good morrow from a feeble tongue.</text>
                 <text char="Brutus" type="verse">O, what a time have you chose out, brave Caius,
                     To wear a kerchief! Would you were not sick!</text>
-                <text char="LIGARIUS" type="verse">I am not sick, if Brutus have in hand
+                <text char="Ligarius" type="verse">I am not sick, if Brutus have in hand
                     Any exploit worthy the name of honour.</text>
                 <text char="Brutus" type="verse">Such an exploit have I in hand, Ligarius,
                     Had you a healthful ear to hear of it.</text>
-                <text char="LIGARIUS" type="verse">By all the gods that Romans bow before,
+                <text char="Ligarius" type="verse">By all the gods that Romans bow before,
                     I here discard my sickness! Soul of Rome!
                     Brave son, derived from honourable loins!
                     Thou, like an exorcist, hast conjured up
@@ -975,11 +975,11 @@
                     And I will strive with things impossible;
                     Yea, get the better of them. What's to do?</text>
                 <text char="Brutus" type="verse">A piece of work that will make sick men whole.</text>
-                <text char="LIGARIUS" type="verse">But are not some whole that we must make sick?</text>
+                <text char="Ligarius" type="verse">But are not some whole that we must make sick?</text>
                 <text char="Brutus" type="verse">That must we also. What it is, my Caius,
                     I shall unfold to thee, as we are going
                     To whom it must be done.</text>
-                <text char="LIGARIUS" type="verse">Set on your foot,
+                <text char="Ligarius" type="verse">Set on your foot,
                     And with a heart new-fired I follow you,
                     To do I know not what: but it sufficeth
                     That Brutus leads me on.</text>
@@ -1104,7 +1104,7 @@
                 <text char="Caesar" type="verse">How foolish do your fears seem now, Calpurnia!
                     I am ashamed I did yield to them.
                     Give me my robe, for I will go.</text>
-                <text type="enter">PUBLIUS, Brutus, LIGARIUS, METELLUS, Casca, TREBONIUS, and Cinna</text>
+                <text type="enter">PUBLIUS, Brutus, Ligarius, METELLUS, Casca, Trebonius, and Cinna</text>
                 <text char="Caesar" type="verse">And look where Publius is come to fetch me.</text>
                 <text char="PUBLIUS" type="verse">Good morrow, Caesar.</text>
                 <text char="Caesar" type="verse">Welcome, Publius.
@@ -1125,9 +1125,9 @@
                     I have an hour's talk in store for you;
                     Remember that you call on me to-day:
                     Be near me, that I may remember you.</text>
-                <text char="TREBONIUS" type="verse">Caesar, I will:</text>
+                <text char="Trebonius" type="verse">Caesar, I will:</text>
                 <text type="stage">Aside</text>
-                <text char="TREBONIUS" type="verse">and so near will I be,
+                <text char="Trebonius" type="verse">and so near will I be,
                     That your best friends shall wish I had been further.</text>
                 <text char="Caesar" type="verse">Good friends, go in, and taste some wine with me;
                     And we, like friends, will straightway go together.</text>
@@ -1214,7 +1214,7 @@
         <act info="">
             <scene info="">
                 <text type="enter">A crowd of people; among them Artemidorus and the Soothsayer. Flourish. Caesar,
-                    Brutus, Cassius, Casca, Decius Brutus, METELLUS CIMBER, TREBONIUS, Cinna, Antony, Lepidus, Popilus,
+                    Brutus, Cassius, Casca, Decius Brutus, METELLUS CIMBER, Trebonius, Cinna, Antony, Lepidus, Popilus,
                     PUBLIUS, and others</text>
                 <text char="Caesar" type="verse">[To the Soothsayer] The ides of March are come.</text>
                 <text char="Soothsayer" type="verse">Ay, Caesar; but not gone.</text>
@@ -1247,7 +1247,7 @@
                     For, look, he smiles, and Caesar doth not change.</text>
                 <text char="Cassius" type="verse">Trebonius knows his time; for, look you, Brutus.
                     He draws Mark Antony out of the way.</text>
-                <text type="exeunt">Antony and TREBONIUS</text>
+                <text type="exeunt">Antony and Trebonius</text>
                 <text char="Decius Brutus" type="verse">Where is Metellus Cimber? Let him go,
                     And presently prefer his suit to Caesar.</text>
                 <text char="Brutus" type="verse">He is address'd: press near and second him.</text>
@@ -1325,9 +1325,9 @@
                     Rushing on us, should do your age some mischief.</text>
                 <text char="Brutus" type="verse">Do so: and let no man abide this deed,
                     But we the doers.</text>
-                <text type="stage">Re-enter TREBONIUS</text>
+                <text type="enter">Trebonius</text>
                 <text char="Cassius" type="verse">Where is Antony?</text>
-                <text char="TREBONIUS" type="verse">Fled to his house amazed:
+                <text char="Trebonius" type="verse">Fled to his house amazed:
                     Men, wives and children stare, cry out and run
                     As it were doomsday.</text>
                 <text char="Brutus" type="verse">Fates, we will know your pleasures:
@@ -1385,7 +1385,7 @@
                     That fears him much; and my misgiving still
                     Falls shrewdly to the purpose.</text>
                 <text char="Brutus" type="verse">But here comes Antony.</text>
-                <text type="stage">Re-enter Antony</text>
+                <text type="enter">Antony</text>
                 <text char="Brutus" type="verse">Welcome, Mark Antony.</text>
                 <text char="Antony" type="verse">O mighty Caesar! dost thou lie so low?
                     Are all thy conquests, glories, triumphs, spoils,
@@ -2187,7 +2187,7 @@
                 <text char="Cassius" type="verse">And died so?</text>
                 <text char="Brutus" type="verse">Even so.</text>
                 <text char="Cassius" type="verse">O ye immortal gods!</text>
-                <text type="stage">Re-enter Lucius, with wine and taper</text>
+                <text type="enter">Lucius, with wine and taper</text>
                 <text char="Brutus" type="verse">Speak no more of her. Give me a bowl of wine.
                     In this I bury all unkindness, Cassius.</text>
                 <text char="Cassius" type="verse">My heart is thirsty for that noble pledge.
@@ -2195,7 +2195,7 @@
                     I cannot drink too much of Brutus' love.</text>
                 <text char="Brutus" type="verse">Come in, Titinius!</text>
                 <text type="exit">Lucius</text>
-                <text type="stage">Re-enter Titinius, with Messala</text>
+                <text type="enter">Titinius, with Messala</text>
                 <text type="verse">Welcome, good Messala.
                     Now sit we close about this taper here,
                     And call in question our necessities.</text>
@@ -2290,7 +2290,7 @@
                 <text char="Messala" type="verse">Good night, Lord Brutus.</text>
                 <text char="Brutus" type="verse">Farewell, every one.</text>
                 <text type="exeunt">all but Brutus</text>
-                <text type="stage">Re-enter Lucius, with the gown</text>
+                <text type="enter">Lucius, with the gown</text>
                 <text type="verse">Give me the gown. Where is thy instrument?</text>
                 <text char="Lucius" type="verse">Here in the tent.</text>
                 <text char="Brutus" type="verse">What, thou speak'st drowsily?
@@ -2596,7 +2596,7 @@
                     Far from this country Pindarus shall run,
                     Where never Roman shall take note of him.</text>
                 <text type="exit"></text>
-                <text type="stage">Re-enter Titinius with Messala</text>
+                <text type="enter">Titinius with Messala</text>
                 <text char="Messala" type="verse">It is but change, Titinius; for Octavius
                     Is overthrown by noble Brutus' power,
                     As Cassius' legions are by Antony.</text>
@@ -2642,7 +2642,7 @@
                     By your leave, gods:--this is a Roman's part
                     Come, Cassius' sword, and find Titinius' heart.</text>
                 <text type="stage">Kills himself</text>
-                <text type="stage">Alarum. Re-enter Messala, with Brutus, Cato, Strato, Volumnius, and Lucilius</text>
+                <text type="enter">Messala, with Brutus, Cato, Strato, Volumnius, and Lucilius</text>
                 <text char="Brutus" type="verse">Where, where, Messala, doth his body lie?</text>
                 <text char="Messala" type="verse">Lo, yonder, and Titinius mourning it.</text>
                 <text char="Brutus" type="verse">Titinius' face is upward.</text>
