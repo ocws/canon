@@ -2,10 +2,12 @@
 <play>
     <head>
         <title>Much Ado About Nothing</title>
+        <note></note>
         <shortName>much-ado</shortName>
         <tag>comedy</tag>
         <image></image>
         <note></note>
+        <author>Noah Heyl</author>
     </head>
     <text>
         <act info="">
