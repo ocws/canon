@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <play>
     <head>
-        <title>Much Ado About Nothing
-        </title>
+        <title>Much Ado About Nothing</title>
         <shortName>much-ado</shortName>
+        <tag>comedy</tag>
         <image></image>
         <note></note>
     </head>
